@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="firstBtn">Manage Your ToDo</string>
+    <string name="TextView">Welcome</string>
+    <string name="deleteBtn">Delete done</string>
+    <string name="addBtn">Add Todo</string>
+    <string name="inputField">Enter Todo Title</string>
+    <string name="exampleTxt">Example</string>
+</resources>
